@@ -67,6 +67,11 @@ In recent years, many products have been created to monitor the work, efficiency
 
 Timeular is an example of new technologies being used to measure to the of software engineers. A small, eight-sided dice that sits on the engineers desk, the Timeular device can be set face-down on a particular side which begins a clock, timing how long an engineer has been working on a particular aspect of their job. There are options for answering emails, coding and even taking coffee breaks. Such a device, in theory should prove wonders, as employers or line managers can track exactly for how long their employees have been working and assess them with the aid of this information. However, the device is not without fault. Which brings us to our ethical dilemma. The use of this device can only be successful in a setting where the employee can be trusted to *actually* carry out the task they claim to be working on, rather than setting the device to say they are coding, only to spend the next thirty minutes or so browsing videos on YouTube.
 
+Another new piece of technology being used to measure software engineers in work is the Humanyze Employee ID badge. This tag which has “two microphones doing real-time voice analysis, and each comes with sensors that follow where you are in the office, with motion detectors to record how much you move.” (Heath, 2016). The device will monitor to whom a worker is talking at any one time as well as monitoring the performance of the engineer. These tags will most likely lead to an increase in compliance and productivity in the workplace, but in a world dominated by GDPR laws, I believe that such intrusive and invasive technology will lead to a drastic decrease in employee satisfaction and the company will have issues trying to retain such an unhappy workforce. 
+
+Ethically, the Humanyze tag appears quite Orwellian, in my opinion. In 1984, Orwell says that “Big Brother” is always watching, and that there are “always eyes watching you and the voice enveloping you. Asleep or awake, indoors or out of doors, in the bath or bed—no escape. Nothing was your own except the few cubic centimetres in your skull.” (Orwell, 1949). Such technology could be proven dangerous if the data were to be stolen, with voice recordings and locations trackers allowing people to learn private information about the employee. Then Humanyze CEO, Ben Waber, himself admitted that the “Big Brother image is a big obstacle in getting people to adopt the badge concept” (Weller, 2016). He also admitted that the constant recording would be a deterrent saying that “people still need to feel comfortable using them in order for the concept”. 
+
+
 
 
 ## Bibliography
@@ -78,3 +83,9 @@ Nguyen, V., Deeds-Rubin, S., Tan, T., Boehm, B., 2007, A SLOC Counting Standard,
 C. Jones. Software Project Management Practices: Failure Versus Success©, CrossTalk, The Journal of Defense Software Engineering, October, 2004.
 
 Fenton, N. E., and Martin, N. (1999) "Software metrics: successes, failures and new directions." Journal of Systems and Software 47.2 pp. 149-157.
+
+Heath, T., 2016. This Employee ID Badge Monitors And Listens To You At Work — Except In The Bathroom. [online] The Washington Post. Available at: <https://www.washingtonpost.com/news/business/wp/2016/09/07/this-employee-badge-knows-not-only-where-you-are-but-whether-you-are-talking-to-your-co-workers/> [Accessed 13 November 2020].
+
+Orwell, G.., 1949. 1984. Secker & Warburg, p.29.
+
+Weller, C., 2016. Employees At A Dozen Fortune 500 Companies Wear Digital Badges That Watch And Listen To Their Every Move. [online] Business Insider. Available at: <https://www.businessinsider.com/humanyze-badges-watch-and-listen-employees-2016-10?r=US&IR=T> [Accessed 13 November 2020].
