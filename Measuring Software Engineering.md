@@ -7,7 +7,7 @@ In this paper, we will explore some of the new technologies and methodologies wh
 
 ## Methods of yesteryear
 
-Counting the number of lines of code is a method that has been employed for many years but carries with it many flaws. “Source Lines of Code (SLOC or LOC) is one of the most widely used sizing metric in industry and literature” (Nguyen, et.al, 2007). However, there is often confusion regarding what constitutes a “source line of code”.  Measuring engineers on the number of lines of code they write can lead to serious issues of inefficiency, as well as diffiuclt, hard-to-follow "spaghetti code" in alrger scale projects. For example:
+Counting the number of lines of code is a method that has been employed for many years but carries with it many flaws. “Source Lines of Code (SLOC or LOC) is one of the most widely used sizing metric in industry and literature” (Nguyen, et.al, 2007). However, there is often confusion regarding what constitutes a “source line of code”.  Measuring engineers on the number of lines of code they write can lead to serious issues of inefficiency, as well as difficult, hard-to-follow "spaghetti code" in larger scale projects. For example:
 
     if(num%2 == 0)
     {
