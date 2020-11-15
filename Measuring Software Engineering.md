@@ -91,6 +91,8 @@ Would have the following graph:
 
 From our formula, we can see that this program has a cyclomatic complexity of 3.
 
+While this metric does provide a better reflection than simply counting the SLOC, in my opinion, this metric still shares several of the same pitfalls. By measuring software using this metric, it still encourages software engineers to write overly complex code with many winding clauses. This metric becomes even more complicated once it is ap-plied to inter-function, inter-modular programmes, as there are inconsistencies in how some software engineers compute cyclomatic complexity, where some add together the individual complexities of functions and others count at “purely a module level”. As a result of this, it has been suggested that McCabe’s metric of Cyclomatic Complexity can only accurately be applied within intra-modular functions: “the only possible role for cyclomatic complexity is as an intra-modular complexity metric” (Sheppard, 1988).
+
 Some believe that the irrelevance of measuring metrics is due in large part to how little relevance they have based on industry needs. The irrelevance here is due to two main factors:
 
 **•	Irrelevance of Scope** – Many of the metrics used to measure software “can only ever be applied/computed for small programs, whereas all the reasonable objectives for applying metrics are relevant primarily for large systems” (Fenton & Martin, 2007)
