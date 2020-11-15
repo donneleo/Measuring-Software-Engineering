@@ -7,6 +7,8 @@ In this paper, we will explore the pitfalls regarding some of the more popular c
 
 ## Methods of yesteryear
 
+### Counting LOC
+
 Counting the number of lines of code is a method that has been employed for many years but carries with it many flaws. “Source Lines of Code (SLOC or LOC) is one of the most widely used sizing metric in industry and literature” (Nguyen, et.al, 2007). However, there is often confusion regarding what constitutes a “source line of code”.  Measuring engineers on the number of lines of code they write can lead to serious issues of inefficiency, as well as difficult, hard-to-follow "spaghetti code" in larger scale projects. For example:
 
     if(num%2 == 0)
@@ -55,11 +57,15 @@ There are of course tools that exist that aid in the counting of these SLOC. In 
 
 The counting of code can also be done by counting the number of logical lines of code, that being the lines of code which services a purpose. So, in other words, the number of physical lines of code minus any comments made within the code block. For example, applying this to the above code blocks, the former contains fourteen logical lines of code, while the later still has two logical lines of code. While this would stop software engineers from writing needless comments in order to “bump up” their number of lines, it does still allow for engineers to write long, drawn-out code rather than the much sorter, efficient code that can be used.
 
+### Repository Commits
+
 Another method which has been used before to measure the work of a software engineer is the number of commits they have to their repository of work. Each commit is given a unique ID, using which people can view which changes were made at a given point in time. Many repositories allow for users to see how often commits are made.
 
 ![Commits](https://github.com/donneleo/Measuring-Software-Engineering/blob/main/assets/Capture.PNG)
 
 While this, again, can be a reflection of how often the engineer works, or how consistently they commit code into a project, this again is a flawed method of measurement. Any minute change to a piece of code needs to be committed to the repository in order to become a part of the project. So, while an engineer may be committing on a consistent basis, many commits may only be for small spelling errors, rather than meaningful contributions to a project. Tools like Teamfeed exist as well to help track the number of commits a user makes to a repository and gamifies this by making leader boards of who has made the most commits, and sending regular emails to the team members. However, the same negative impacts were observed in a study carried out by Singer and Schneider, 2012, where the student using Teamfeed said that “Just because someone had submitted something to version control, they said, did not mean that there was actually any value in the commit” (Singer & Schneider, 2012). Some of the students even noted how they viewed the emails as spam, and they often went unread. We can evaluate from this that Teamfeed is an ineffective tool.
+
+### Cyclomatic Complexity
 
 In 1976, Thomas McCabe proposed that the metric of cyclomatic complexity be used as a method for evaluating the work of a software engineer and as a “predictor of various software attributes such as reliability and development effort” (Sheppard, 1988). Cyclomatic Complexity offers a quantitative measure of the complexity of source code by counting the number of control paths through a piece of code rather than the SLOC themselves, as it would provide a better measurement of work, and “much more related to the testing effort”. Cyclomatic Complexity is often visualized as a flow chart of nodes and edges, such that the cyclomatic complexity of the code is:
 
@@ -103,12 +109,17 @@ So, we can see that why these metrics may have been used in the past, but with t
 
 ## Devices in Use
 
+### Timeular
+
 Timeular is an example of new technologies being used to measure to the of software engineers. A small, eight-sided dice that sits on the engineers desk, the Timeular device can be set face-down on a particular side which begins a clock, timing how long an engineer has been working on a particular aspect of their job. There are options for answering emails, coding and even taking coffee breaks. Such a device, in theory should prove wonders, as employers or line managers can track exactly for how long their employees have been working and assess them with the aid of this information. However, the device is not without fault. Which brings us to our ethical dilemma. The use of this device can only be successful in a setting where the employee can be trusted to *actually* carry out the task they claim to be working on, rather than setting the device to say they are coding, only to spend the next thirty minutes or so browsing videos on YouTube.
+
+### Humanyze Employee Badge
 
 Another new piece of technology being used to measure software engineers in work is the Humanyze Employee ID badge. This tag which has “two microphones doing real-time voice analysis, and each comes with sensors that follow where you are in the office, with motion detectors to record how much you move.” (Heath, 2016). The device will monitor to whom a worker is talking at any one time as well as monitoring the performance of the engineer. These tags will most likely lead to an increase in compliance and productivity in the workplace, but in a world dominated by GDPR laws, I believe that such intrusive and invasive technology will lead to a drastic decrease in employee satisfaction and the company will have issues trying to retain such an unhappy workforce. 
 
 Ethically, the Humanyze tag appears quite Orwellian, in my opinion. In 1984, Orwell says that “Big Brother” is always watching, and that there are “always eyes watching you and the voice enveloping you. Asleep or awake, indoors or out of doors, in the bath or bed—no escape. Nothing was your own except the few cubic centimetres in your skull.” (Orwell, 1949). Such technology could be proven dangerous if the data were to be stolen, with voice recordings and locations trackers allowing people to learn private information about the employee. Then Humanyze CEO, Ben Waber, himself admitted that the “Big Brother image is a big obstacle in getting people to adopt the badge concept” (Weller, 2016). He also admitted that the constant recording would be a deterrent saying that “people still need to feel comfortable using them in order for the concept”. 
 
+### Steelcase
 
 The Steelcase office chair is an example of new technologies being used to monitor the health and well-being of software engineers. The chair is filled with sensors which monitor the posture of the employee sitting there. This information is stored and sent to the Steelcase Rise mobile app, which lets the user know how they are distributing their weight, how their posture is and gives the user frequent reminders to stand up and take a movement break. The app gives the employee stretching and breathing ex-ercises. The chair also monitors heart rate, stress levels, breathing habits, and displays them for the user.
 
