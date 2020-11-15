@@ -3,7 +3,7 @@
 
 “From a more abstract point of view, the goal of software measurement is to build and validate hypotheses and increase the body of knowledge about software engineering” (Morasca, n.d.). There isn’t a company in the world who do not evaluate the performance and production of their workers. The use of metrics can allow for management to clearly see how effective a worker has been over a period of time. In some cases, this may be the number of units produced or the number of tables served. However, measuring software engineering is complex also in that there may not be a uniform standard for what needs to be measured. The use of normal metric such as these are not applicable to the world of software engineering, where projects can vary between taking place over a number of weeks or months to create large scale applications, to taking place over a single day in order to fix small bugs and errors.
 
-In this paper, we will explore the pitfalls regarding some of the more popular current methods of measurement as well assome of the new technologies and methodologies which are being used to measure software engineering, the platforms being used to measure and the ethical aspects of using some of these technologies.
+In this paper, we will explore the pitfalls regarding some of the more popular current methods of measurement as well as some of the new technologies and methodologies which are being used to measure software engineering, the platforms being used to measure and the ethical aspects of using some of these technologies.
 
 ## Methods of yesteryear
 
