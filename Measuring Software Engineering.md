@@ -120,6 +120,8 @@ Nguyen, V., Deeds-Rubin, S., Tan, T., Boehm, B., 2007, A SLOC Counting Standard,
 
 C. Jones. Software Project Management Practices: Failure Versus Success©, CrossTalk, The Journal of Defense Software Engineering, October, 2004.
 
+L. Singer and K. Schneider, "It was a bit of a race: Gamification of version control," Games and Software Engineering (GAS), 2012 2nd International Workshop on, Zurich, 2012, pp. 5-8
+
 Sheppard, M., 1988, A Critique of Cyclomatic Complexity as a Software Metric, Soft-ware Engineering Journal. 3. 30-36.
 
 Atencio, L., 2012. Measuring Code Complexity - Dzone Java. [online] dzone.com. Available at: <https://dzone.com/articles/measuring-code-complexity> [Accessed 15 November 2020].
