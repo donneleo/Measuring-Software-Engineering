@@ -99,7 +99,7 @@ Some believe that the irrelevance of measuring metrics is due in large part to h
 
 **•	Irrelevance of Content** – The metrics that academics are using to measure software engineering are very often not in line with the metrics used within the industry and are therefore redundant.
 
-So, we can see that why these metrics may have been used in the past, but with the number of issues befalling each one, it is only natural that technology companies have been working on created products that can monitor and evaluate software and software engineers. In recent years, many products have been created to monitor the work, efficiency and general well-being of software engineers. These tools come with a myriad of benefits and faults, as well as having their own ethical dilemmas.
+So, we can see that why these metrics may have been used in the past, but with the number of issues befalling each one, it is only natural that technology companies have been working on created products that can monitor and evaluate software and software engineers. In recent years, many products have been created to monitor the work, efficiency and general well-being of software engineers. What is particularly interesting across theses new technologies is the emphasis on measuring the software engineer, rather than the software itself. These tools come with a myriad of benefits and faults, as well as having their own ethical dilemmas.
 
 ## Devices in Use
 
