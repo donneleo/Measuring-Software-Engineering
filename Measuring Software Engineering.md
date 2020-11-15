@@ -61,6 +61,36 @@ Another method which has been used before to measure the work of a software engi
 
 While this, again, can be a reflection of how often the engineer works, or how consistently they commit code into a project, this again is a flawed method of measurement. Any minute change to a piece of code needs to be committed to the repository in order to become a part of the project. So, while an engineer may be committing on a consistent basis, many commits may only be for small spelling errors, rather than meaningful contributions to a project.
 
+In 1976, Thomas McCabe proposed that the metric of cyclomatic complexity be used as a method for evaluating the work of a software engineer and as a “predictor of various software attributes such as reliability and development effort” (Sheppard, 1988). Cy-clomatic Complexity offers a quantitative measure of the complexity of source code by counting the number of control paths through a piece of code rather than the SLOC themselves, as it would provide a better measurement of work, and “much more relat-ed to the testing effort”. Cyclomatic Complexity is often visualized as a flow chart of nodes and edges, such that the cyclomatic complexity of the code is:
+
+<p align="center"> CC = (e - n) + p. </p>
+
+where:
+-	CC = Cyclomatic Complexity
+-	e = number of edges
+-	n = number of nodes
+-	p = number of nodes with exit points, i.e. return statements
+
+So, for example the following code statement:
+
+    def mymethod(x, y)
+        r = x
+        if x > 5
+            r = 5
+        end
+        if y < 5
+            r = y
+        end
+        r
+    end
+
+Would have the following graph:
+
+<p align="center"> <img src="https://github.com/donneleo/Measuring-Software-Engineering/blob/main/assets/graph.PNG" alt="Graph"> </p>
+(Atencio, 2012).
+
+From our formula, we can see that this program has a cyclomatic complexity of 3.
+
 Some believe that the irrelevance of measuring metrics is due in large part to how little relevance they have based on industry needs. The irrelevance here is due to two main factors:
 
 **•	Irrelevance of Scope** – Many of the metrics used to measure software “can only ever be applied/computed for small programs, whereas all the reasonable objectives for applying metrics are relevant primarily for large systems” (Fenton & Martin, 2007)
@@ -87,6 +117,10 @@ Morasca, S., n.d. Software Measurement. [pdf] Como: Università dell'Insubria Di
 Nguyen, V., Deeds-Rubin, S., Tan, T., Boehm, B., 2007, A SLOC Counting Standard, Center for Systems and Software Engineering University of Southern California, Available at: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.550.8181&rep=rep1&type=pdf [Accessed 12 November 2020]
 
 C. Jones. Software Project Management Practices: Failure Versus Success©, CrossTalk, The Journal of Defense Software Engineering, October, 2004.
+
+Sheppard, M., 1988, A Critique of Cyclomatic Complexity as a Software Metric, Soft-ware Engineering Journal. 3. 30-36.
+
+Atencio, L., 2012. Measuring Code Complexity - Dzone Java. [online] dzone.com. Available at: <https://dzone.com/articles/measuring-code-complexity> [Accessed 15 November 2020].
 
 Fenton, N. E., and Martin, N. (1999) "Software metrics: successes, failures and new directions." Journal of Systems and Software 47.2 pp. 149-157.
 
