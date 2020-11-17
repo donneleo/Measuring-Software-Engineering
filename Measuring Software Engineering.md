@@ -136,6 +136,26 @@ PluralSight uses Flow, which evaluates and visualises the impact of each commit 
 
 According to PluralSight’s website, using Flows leads to a “137% increase in codebase impact” as well as a “70% decrease in errors encountered by users” (Pluralsight, 2020). It also has functionalities that allow for teams to plan and evaluate their sprints better so that work can be given out more efficiently. Their website also notes a “20% increase in impact to codebase” and “25% increase in commits per day” from teams using PluralSight technologies.  Clearly, we can see from these that PluralSight does lead to an increase in efficiency, without being as invasive as other technologies like the dystopian Humanyze Employee Identification Badge.
 
+### Waydev
+
+A similar platform to PluralSight, Waydev allows for the tracking of teams of software engineers. Waydev keeps a work log of the commits and pull made so that users can see exactly what has been changed and evaluate whether or not they were of any use. Daily updates and sprint management allows for teams to act quicker to fulfil tasks, thus slowing team to cut down on the number of meetings needed, which is particular-ly beneficial in times of global pandemic. 
+
+Waydev also collects statistics on each developer within the team and aggregates them, so the team can easily measure who has been doing the most or least amount of work. Different engineers can be compared against each other, creating competition within a team to perform better. By being able to view which engineers are not con-tributing, appropriate actions can be taken to remove them from the team in order to speed up the development process.
+
+Repository statistics can be complied over time to give an overview of how the project is shaping up and targets can be clearly defined on the platform, where the progress of each task can also be monitored, which again can also the team to see who is  or isn’t contributing to the team.
+
+Again, Waydev, as a tool, is much more ethical from an employer standpoint. Employ-ees are much more likely to be in favour of such technology being used, and the moni-toring of individual engineer’s data will mean that there is increased accountability and competition within the team to be the best performer. 
+
+
+## Conclusion
+
+We have seen throughout the paper how using some of these older metrics can be dangerous, as less trustworthy software engineers may exploit these metrics to make it appear as if they are performing better than the really are. The unethical behaviour of the engineers may cost the company a great deal of money, especially if bonuses are being paid to engineers who are essentially “padding” their numbers with worthless commits. 
+
+However, many new technologies are propelling us towards a dystopian, Orwellian fu-ture where we are monitored and recorded every second of our working day. While many people may voice concern on these matters, it may not always be a choice to speak up. Companies employing technologies such as the Humanyze Employee Identi-fication Badge will be mostly focused on turning high profits, so the morale of employees may not always be of major importance to them. Gadgets like the Timeular dice, in my opinion, are more style over substance, as such a device can be easily worked around by setting the timer to count your coding time, while you go to have a coffee break. 
+
+It would appear that the brightest light amongst these technologies would be the Waydev and PluralSight platforms. While they aren’t perfect, in that the counting of commits still carries with it some risk, being able to categorize the impact of the commits will lower the amount of needless commits which may only add comments or small changes to code such as a variable name change. These tools allow for teams of software engineers to quickly and easily see at what point they are in a project, quickly review what has been committed to the codebase, and plan their next sprint. 
+
+While the advancements in technology we have made in order to manage and track the efficiency of employees has of course been impressive, it is highly imporatnant to remember that they are still people, and if they are unhappy with intrusive, envasive micromanaging technologies that they feel are ruining their place of work, they may always leave. It is what the industry does next to strike they balance between accountability and freedom to work which will be of key importance.
 
 
 ## Bibliography
