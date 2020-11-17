@@ -118,7 +118,7 @@ Timeular is an example of new technologies being used to measure to the of softw
 
 Another new piece of technology being used to measure software engineers in work is the Humanyze Employee ID badge. This tag which has “two microphones doing real-time voice analysis, and each comes with sensors that follow where you are in the office, with motion detectors to record how much you move.” (Heath, 2016). The device will monitor to whom a worker is talking at any one time as well as monitoring the performance of the engineer. These tags will most likely lead to an increase in compliance and productivity in the workplace, but in a world dominated by GDPR laws, I believe that such intrusive and invasive technology will lead to a drastic decrease in employee satisfaction and the company will have issues trying to retain such an unhappy workforce. 
 
-Ethically, the Humanyze tag appears quite Orwellian, in my opinion. In 1984, Orwell says that “Big Brother” is always watching, and that there are “always eyes watching you and the voice enveloping you. Asleep or awake, indoors or out of doors, in the bath or bed—no escape. Nothing was your own except the few cubic centimetres in your skull.” (Orwell, 1949). Such technology could be proven dangerous if the data were to be stolen, with voice recordings and locations trackers allowing people to learn private information about the employee. Then Humanyze CEO, Ben Waber, himself admitted that the “Big Brother image is a big obstacle in getting people to adopt the badge concept” (Weller, 2016). He also admitted that the constant recording would be a deterrent saying that “people still need to feel comfortable using them in order for the concept”. 
+Ethically, the Humanyze tag appears quite Orwellian, in my opinion. In his novel 1984, George Orwell says that “Big Brother” is always watching, and that there are “always eyes watching you and the voice enveloping you. Asleep or awake, indoors or out of doors, in the bath or bed—no escape. Nothing was your own except the few cubic centimetres in your skull.” (Orwell, 1949). Such technology could be proven dangerous if the data were to be stolen, with voice recordings and locations trackers allowing people to learn private information about the employee. Then Humanyze CEO, Ben Waber, himself admitted that the “Big Brother image is a big obstacle in getting people to adopt the badge concept” (Weller, 2016). He also admitted that the constant recording would be a deterrent saying that “people still need to feel comfortable using them in order for the concept”. 
 
 ### Steelcase
 
@@ -126,6 +126,16 @@ The Steelcase office chair is an example of new technologies being used to monit
 
 
 This technology is very beneficial to the user, as it can allow them to monitor their health while at work, which makes for a perfectly ethical application. The alerts to take movement breaks is very useful for maintaining a balance of work and movement, something which is even more prevalent now in the wake of a pandemic, where more and more people are working from home at their desks. However, while there has been no case of it happening thus far, my fear of such technology stems from how this health information could be held against an employee. Should the chair monitor consistently high stress levels and poor heart rates, an employer might decide to cut the employee from the firm’s health insurance plan, citing the data gathered by the Steelcase chair. The idea of a chair being able to lead to the loss of health insurance seems almost too impossible to fathom, but when a company decides they would like to cut costs, it is not beyond the realms of possibility. So, while at a surface level, this is a perfectly ethical piece of technology, the future possibilities for how it is used are worrying.
+
+### PluralSight
+
+
+PluralSight is a tool that monitors software engineers with regard to the number of commits they make to a code base. While I have mentioned early the dangers of using the number of commits as a metric, what sets PluralSight apart is the type of meas-urement it does. In their own words, they note how “counting lines of code is no way to measure your work” (Pluralsight, 2020), which is true when the bulk of your days work could be dedicated to deleting unnecessary, redundant pieces of code. 
+
+PluralSight uses Flow, which evaluates and visualises the impact of each commit to the overall project. As mentioned previously, using commits as a metric encourages engi-neers to make pointless, unnecessary commits, but with Flow, the impact of the com-mit is calculated. When a commit is made, Flow can evaluate whether the commit add-ed new and meaningful progress to the project, whether it was a refactoring of existing code or whether the commit had any impact of significance. 
+
+According to PluralSight’s website, using Flows leads to a “137% increase in codebase impact” as well as a “70% decrease in errors encountered by users” (Pluralsight, 2020). Clearly, we can see from these that PluralSight does lead to an increase in efficiency, without being as invasive as other technologies like the dystopian Humanyze Employee Identification Badge.
+
 
 
 ## Bibliography
@@ -149,3 +159,5 @@ Heath, T., 2016. This Employee ID Badge Monitors And Listens To You At Work — 
 Orwell, G.., 1949. 1984. Secker & Warburg, p.29.
 
 Weller, C., 2016. Employees At A Dozen Fortune 500 Companies Wear Digital Badges That Watch And Listen To Their Every Move. [online] Business Insider. Available at: <https://www.businessinsider.com/humanyze-badges-watch-and-listen-employees-2016-10?r=US&IR=T> [Accessed 13 November 2020].
+
+Pluralsight.com. 2020. Data Insights Platform For Software Engineers. [online] Availa-ble at: <https://www.pluralsight.com/product/flow/engineers> [Accessed 17 November 2020].
