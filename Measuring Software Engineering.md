@@ -134,7 +134,7 @@ PluralSight is a tool that monitors software engineers with regard to the number
 
 PluralSight uses Flow, which evaluates and visualises the impact of each commit to the overall project. As mentioned previously, using commits as a metric encourages engi-neers to make pointless, unnecessary commits, but with Flow, the impact of the com-mit is calculated. When a commit is made, Flow can evaluate whether the commit add-ed new and meaningful progress to the project, whether it was a refactoring of existing code or whether the commit had any impact of significance. 
 
-According to PluralSight’s website, using Flows leads to a “137% increase in codebase impact” as well as a “70% decrease in errors encountered by users” (Pluralsight, 2020). Clearly, we can see from these that PluralSight does lead to an increase in efficiency, without being as invasive as other technologies like the dystopian Humanyze Employee Identification Badge.
+According to PluralSight’s website, using Flows leads to a “137% increase in codebase impact” as well as a “70% decrease in errors encountered by users” (Pluralsight, 2020). It also has functionalities that allow for teams to plan and evaluate their sprints better so that work can be given out more efficiently. Their website also notes a “20% increase in impact to codebase” and “25% increase in commits per day” from teams using PluralSight technologies.  Clearly, we can see from these that PluralSight does lead to an increase in efficiency, without being as invasive as other technologies like the dystopian Humanyze Employee Identification Badge.
 
 
 
